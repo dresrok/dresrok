@@ -1,5 +1,5 @@
-# Hi there, I'm Andrés Santos, Senior Software Engineer
-### Helping companies grow products—scaling platforms, hardening reliability, and speeding delivery on AWS with Node, TypeScript, React & Go.
+# Hi there, I'm Andrés Santos
+### Senior Software Engineer helping companies grow products—scaling platforms, hardening reliability, and speeding delivery on AWS with Node, TypeScript, React & Go.
 
 <p>
   <a href="https://www.linkedin.com/in/andres-santos"><img src="https://img.shields.io/badge/LinkedIn-Andrés%20Santos-blue" /></a>
